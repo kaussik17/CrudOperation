@@ -1,0 +1,5 @@
+﻿CREATE PROCEDURE Employee_Select
+AS
+BEGIN
+    SELECT * FROM Employee;
+END;
